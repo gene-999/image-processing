@@ -34,6 +34,7 @@ This project demonstrates frequency domain image processing techniques for blurr
 - Matplotlib
 
 Install dependencies:
+
 ```bash
 pip install opencv-python numpy matplotlib
 ```
@@ -71,11 +72,13 @@ The notebook covers:
 ## Results and Discussion
 
 ### Low-Pass Filters (Blurring)
+
 - **Ideal LPF**: Sharp blurring but introduces ringing artifacts
 - **Butterworth LPF**: Smooth blurring with reduced artifacts; tunable via order parameter
 - **Gaussian LPF**: Smoothest blurring effect with minimal artifacts
 
 ### High-Pass Filters (Sharpening)
+
 - **Ideal HPF**: Strong edge enhancement but significant artificial ringing
 - **Butterworth HPF**: Balanced sharpening with controlled artifacts
 - **Gaussian HPF**: Natural-looking sharpening without ringing effects
@@ -92,21 +95,25 @@ The notebook covers:
 ## Key Functions
 
 ### Core DFT Functions
+
 - `dft2d(img_gray)`: Performs 2D Discrete Fourier Transform
 - `shift_dft(dft_result)`: Shifts zero-frequency component to center
 - `idft2d(shifted_dft_result)`: Performs Inverse 2D DFT
 
 ### Low-Pass Filter Functions
+
 - `create_ideal_lowpass_filter(rows, cols, D0)`
 - `create_butterworth_lowpass_filter(rows, cols, D0, n)`
 - `create_gaussian_lowpass_filter(rows, cols, D0)`
 
 ### High-Pass Filter Functions
+
 - `create_ideal_highpass_filter(rows, cols, D0)`
 - `create_butterworth_highpass_filter(rows, cols, D0, n)`
 - `create_gaussian_highpass_filter(rows, cols, D0)`
 
 ### Utility Functions
+
 - `apply_filter(shifted_dft, filter_mask)`: Applies filter mask and performs IDFT
 
 ## Parameters
@@ -146,14 +153,14 @@ Through this project, we demonstrated that:
 
 ## Group List
 
-| No. | Student Name | Student ID |
-|-----|-------------|------------|
-| 1   |             |            |
-| 2   |             |            |
-| 3   |Bernard Mensah Afful            |11253585            |
-| 4   |Addo Gabriel          |  11118661          |
-| 5   |             |            |
-| 6   |             |            |
-| 7   |             |            |
-| 8   |             |            |
-| 9   |             |            |
+| No. | Student Name         | Student ID |
+| --- | -------------------- | ---------- |
+| 1   |                      |            |
+| 2   | Eugene Baidoo        | 11310591   |
+| 3   | Bernard Mensah Afful | 11253585   |
+| 4   | Addo Gabriel         | 11118661   |
+| 5   |                      |            |
+| 6   |                      |            |
+| 7   |                      |            |
+| 8   |                      |            |
+| 9   |                      |            |
