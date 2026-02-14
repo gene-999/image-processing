@@ -150,7 +150,7 @@ Through this project, we demonstrated that:
 |-----|-------------|------------|
 | 1   |             |            |
 | 2   |             |            |
-| 3   |             |            |
+| 3   |Bernard Mensah Afful            |11253585            |
 | 4   |             |            |
 | 5   |             |            |
 | 6   |             |            |
