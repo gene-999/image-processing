@@ -151,7 +151,7 @@ Through this project, we demonstrated that:
 | 1   |             |            |
 | 2   |             |            |
 | 3   |Bernard Mensah Afful            |11253585            |
-| 4   |             |            |
+| 4   |Addo Gabriel          |  11118661          |
 | 5   |             |            |
 | 6   |             |            |
 | 7   |             |            |
