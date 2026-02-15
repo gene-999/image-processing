@@ -160,7 +160,7 @@ Through this project, we demonstrated that:
 | 3   | Bernard Mensah Afful | 11253585   |
 | 4   | Addo Gabriel         | 11118661   |
 | 5   | Oswald Amoah         | 11046928   |
-| 6   |                      |            |
+| 6   | Nyanyo Edem larry K  | 11052329   |
 | 7   |                      |            |
 | 8   |                      |            |
 | 9   |                      |            |
