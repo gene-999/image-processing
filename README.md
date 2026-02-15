@@ -153,14 +153,14 @@ Through this project, we demonstrated that:
 
 ## Group List
 
-| No. | Student Name         | Student ID |
-| --- | -------------------- | ---------- |
-| 1   |                      |            |
-| 2   | Eugene Baidoo        | 11310591   |
-| 3   | Bernard Mensah Afful | 11253585   |
-| 4   | Addo Gabriel         | 11118661   |
-| 5   | Oswald Amoah         | 11046928   |
-| 6   | Nyanyo Edem larry K  | 11052329   |
-| 7   |                      |            |
-| 8   |                      |            |
-| 9   |                      |            |
+| No. | Student Name              | Student ID |
+| --- | ------------------------- | ---------- |
+| 1   | Hillarious Dela Glesu     | 11297515   |
+| 2   | Eugene Baidoo             | 11310591   |
+| 3   | Bernard Mensah Afful      | 11253585   |
+| 4   | Addo Gabriel Kwabena      | 11118661   |
+| 5   | Oswald Amoah              | 11046928   |
+| 6   | Nyanyo Edem Larry Kwaku   | 11052329   |
+| 7   | Akafari Toufiq Sia        | 11336088   |
+| 8   | James Atsu Selikem Kuhlor | 11297233   |
+| 9   | Agorde Rickey             | 11028282   |
